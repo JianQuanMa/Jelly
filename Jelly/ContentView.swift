@@ -68,9 +68,9 @@ struct VideoPost: Identifiable, Codable {
     
     static let mockData = [
         VideoPost(
-            title: "Amazing Sunset Timelapse",
+            title: "back at it again",
             creator: "@naturelover",
-            videoURL: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/BigBuckBunny.mp4",
+            videoURL: "https://jelly-shareables.s3.amazonaws.com/87015E09-A11F-4E24-91D7-6D22A524656B/87015E09-A11F-4E24-91D7-6D22A524656B_original.mp4",
             thumbnailURL: "sunset",
             views: 125000,
             likes: 8420,
@@ -78,9 +78,9 @@ struct VideoPost: Identifiable, Codable {
             duration: 15.0
         ),
         VideoPost(
-            title: "Street Art Discovery",
+            title: "annoucement",
             creator: "@artexplorer",
-            videoURL: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ElephantsDream.mp4",
+            videoURL: "https://jelly-shareables.s3.amazonaws.com/EAB4EB2B-0C53-46B3-87B0-6626A376EB82/EAB4EB2B-0C53-46B3-87B0-6626A376EB82_original.mp4",
             thumbnailURL: "street_art",
             views: 89000,
             likes: 5230,
@@ -88,9 +88,9 @@ struct VideoPost: Identifiable, Codable {
             duration: 12.0
         ),
         VideoPost(
-            title: "Coffee Brewing Magic",
+            title: "Reflecting on Performance: Seeking Improvement and Leniency",
             creator: "@coffeeguru",
-            videoURL: "https://commondatastorage.googleapis.com/gtv-videos-bucket/sample/ForBiggerBlazes.mp4",
+            videoURL: "https://jelly-shareables.s3.amazonaws.com/D37FC389-8496-4C92-83A4-8B5936531CD3/D37FC389-8496-4C92-83A4-8B5936531CD3_original.mp4",
             thumbnailURL: "coffee",
             views: 45000,
             likes: 3100,
